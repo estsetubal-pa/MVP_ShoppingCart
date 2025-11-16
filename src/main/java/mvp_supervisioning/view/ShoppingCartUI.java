@@ -44,9 +44,8 @@ public class ShoppingCartUI implements ShoppingCartView {
 
     
     public ShoppingCartUI(ShoppingCart model) {
-        initComponents();
         this.model=model;
-
+        initComponents();
     }
     
 
