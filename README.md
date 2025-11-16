@@ -4,7 +4,7 @@
 ### Introdução
 O Padrão mvp é um padrão de arquitetura.
 
-![height:70px](images/MVPModel.png) 
+![height:50px](images/MVPModel.png) 
 
 
 O Padrão tem como objetivo organizar uma aplicação dividindo as suas componentes em
