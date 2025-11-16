@@ -4,7 +4,7 @@
 ### Introdução
 O Padrão mvp é um padrão de arquitetura.
 
-![height:100px](images/MVPModel.png) 
+![height:70px](images/MVPModel.png) 
 
 
 O Padrão tem como objetivo organizar uma aplicação dividindo as suas componentes em
@@ -53,7 +53,7 @@ Existe uma variante do MVP : MVP Supervisoned Presenter. Esta variante permite q
   - (iii) actualizar componentes visuais sem ter de pedir ao Presenter para cada pequena alteração.
 O **Presenter supervisiona** em vez de controlar tudo ao pormenor.
 
-![height:100px](images/MVP_S_Model.png)
+![height:70px](images/MVP_S_Model.png)
 
 ### Exercício
 1. Estudo o código apresentado tendo em especial atenção a :
