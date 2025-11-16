@@ -24,7 +24,7 @@ import mvp_supervisioning.presenter.ShoppingCartPresenter;
 
 /**
  *
- * @author brunomnsilva
+ * @author patricia.macedo
  */
 public class ShoppingCartUI implements ShoppingCartView {
 

@@ -63,4 +63,4 @@ O **Presenter supervisiona** em vez de controlar tudo ao pormenor.
 
 2. Adicione a seguinte funcionalidade usando DataBinding
    - Introduza um novo label na View que indica o produto mais caro no carrinho.
-   - **Nota**: Altere as classes que assume o papel de View e Model para implementar esta funcionaldiade.
+   - **Nota**: Altere as classes que assume o papel de View e Model para implementar esta funcionaliDade.
