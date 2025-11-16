@@ -4,7 +4,7 @@
 ### Introdução
 O Padrão mvp é um padrão de arquitetura.
 
-![height:50px](images/MVPModel.png) 
+![height:70px](images/MVPModel.png) 
 
 
 O Padrão tem como objetivo organizar uma aplicação dividindo as suas componentes em
@@ -22,7 +22,7 @@ O Padrão tem como objetivo organizar uma aplicação dividindo as suas componen
 ## Exemplo
 
 Pretende-se realizar uma aplicação para gerir a compra de produtos online - " carrinho de compras" que deverá ter a seguinte interface 
-![mvc](images/userinterface.jpg)
+![mvc](images/userinterface.JPG)
 - **Model**
   - A classe `ShoppingCart` é responsável por gerir a lista de produtos que compoe o carrinho de compras.
 - **View**
